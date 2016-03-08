@@ -123,6 +123,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9bda7079-ca05-4d99-af39-fb930bf72b92" name="!changes.default.changelist.name!" comment="" />
